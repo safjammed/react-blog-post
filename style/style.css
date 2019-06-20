@@ -1,0 +1,13 @@
+form a{
+    margin-left: 5px;
+}
+a.post-link {
+    color: #3a3a3a;
+}
+.mt-5 {
+    margin-top: 50px;
+}
+a.post-link:hover, a.post-link:focus {
+    text-decoration: none;
+    color: inherit;
+}
